@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Art of the Archives"
+title: "Welcome to My Thoughts"
 ---
 
-The site where all the artist can dump their art connected to specific fanfics on AO3.
+The site where I can dump all my thoughts that plague my mind on a daily. I'm here to make it everyones problem.
