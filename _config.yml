@@ -1,13 +1,19 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Art of the Archives
+author: Insomnyx
+email: insomneedssleep@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This page is separate from the original page Archives of Our Own (AO3)
+  and is being used as a way to practice website building in a similar
+  style as the original page. In no way are we trying to take credit or
+  copy what AO3 has built for themselves. It would be cool if we had
+  our page used and interconnected with AO3. If they were to contact us
+  about taking this page down, we will do so. 
+  Thank you for your understanding.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
