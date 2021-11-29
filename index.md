@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Art of the Archives"
 ---
 
-I'm glad you are here. I plan to talk about ...
+The site where all the artist can dump their art connected to specific fanfics on AO3.
